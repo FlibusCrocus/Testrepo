@@ -1,3 +1,3 @@
 # Testrepo
-For the coursera course
-Test for the coursera  class
+Testing repository
+This is the first markdown file.
